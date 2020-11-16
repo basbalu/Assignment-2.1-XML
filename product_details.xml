@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="simple.xsl" ?>
+<product_details>
+<product>
+<name>1. IDLY</name>
+<price>INR 10</price>
+<description>Idly is cheap and healthy food!!</description>
+<sold>650</sold>
+</product>
+<product>
+<name>2.PONGAL </name>
+<price>INR 30</price>
+<description>Pongal is also healthy and easy available food!!</description>
+<sold>900</sold>
+</product>
+<product>
+<name>3. DOSA</name>
+<price>INR 40</price>
+<description>Idly and dosa are also same description!!</description>
+<sold>900</sold>
+</product>
+<product>
+<name>4. PAROTA</name>
+<price>INR 30</price>
+<description>Parathas are one of the most popular unleavened flatbreads in the Indian Subcontinent, made by baking or cooking whole wheat dough on a tava, and finishing off with shallow frying. ... The flour used is finely ground wholemeal (atta) and the dough is shallow fried!!</description>
+<sold>600</sold>
+</product>
+<product>
+<name>5. CHICKEN BIRYANI</name>
+<price>INR 120</price>
+<description>Chicken biryani is made with Indian spices, rice, and meat, and sometimes, in addition, eggs and/or potatoes in certain regional varieties. Biryani is popular throughout the Indian subcontinent, as well as among its diaspora!!</description>
+<sold>950</sold>
+</product>
+<product>
+<name>6. RICE</name>
+<price>INR 75</price>
+<description>Rice is the seed of the grass species Oryza glaberrima or Oryza sativa. As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia and Africa. It is the agricultural commodity with the third-highest worldwide production, after sugarcane and maize!!</description>
+<sold>2000</sold>
+</product>
+<product>
+<name>7. TOMATO RICE</name>
+<price>INR 40</price>
+<description>Tomato rice is tasteful and less prize!!</description>
+<sold>2000</sold>
+</product>
+<product>
+<name>8. PAROTA</name>
+<price>INR 20</price>
+<description>Parathas are one of the most popular unleavened flatbreads in the Indian Subcontinent, made by baking or cooking whole wheat dough on a tava, and finishing off with shallow frying. ... The flour used is finely ground wholemeal (atta) and the dough is shallow fried!!</description>
+<sold>250</sold>
+</product>
+<product>
+<name>9. DOSA</name>
+<price>INR 30</price>
+<description>good and most available food!!</description>
+<sold>500</sold>
+</product>
+<product>
+<name>10. CHICKEN RICE</name>
+<price>INR 70</price>
+<description>best and tasty one!!</description>
+<sold>700</sold>
+</product>
+<product>
+<name>11. EGG NOODLES</name>
+<price>INR 60</price>
+<description>Egg Noodles is good taste food!!</description>
+<sold>750</sold>
+</product>
+<product>
+<name>12. EGG RICE</name>
+<price>INR 50</price>
+<description>Egg rice is most available food for night time!!</description>
+<sold>300</sold>
+</product>
+</product_details>
